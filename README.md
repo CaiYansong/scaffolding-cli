@@ -11,3 +11,5 @@
 
 #### Tips
 - 本地直接使用，请先使用 npm link 命令进行绑定
+1. 在当前文件夹执行 npm link
+2. window cd 到 C:\Program Files\nodejs\node_modules 执行 npm link scaffolding-cli
